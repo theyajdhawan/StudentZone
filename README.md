@@ -16,17 +16,22 @@ _Underline this **bold that**_
 
 [Visit **Github**](http://github.com)
 
-![Tigers Rule](*insert url for the picture/image*)
+![Tigers Rule](_insert url for the picture/image_)
+![Tigers Rule](_insert url for the picture/image_)
+![Tigers Rule](_insert url for the picture/image_)
+![Tigers Rule](_insert url for the picture/image_)
 
 ```
 public static void main(){
 }
 ```
->> Four score and seven years ago
+
+> > Four score and seven years ago
 
 - Bulleted item
   - subitem 1
 - Bulleted Item
+
 1. numbered item 1
 2. numbered item 2
 
